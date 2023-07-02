@@ -19,12 +19,13 @@ I outlined some steps below for getting started, but before we get into that, I 
 You can learn any of this in any order you want, preferably in the order that is most fun and interesting!
 1. Learn more scatch to understand the basics of code. Create several games that use while loops, variables, and other coding mechanics. 
 2. Learn to program the robot, to learn about real world applications.
-3. Learn HTML basics on codecademy. This lets you make websites. 
-4. Learn python to learn how to work with data
+3. Learn HTML basics on codecademy. This lets you make websites. Learn on codecademy.
+4. Learn python to learn how to work with data. Learn on codecademy, resource is also on usb-stick
 5. Learn how VScode aka Visual studio code, works as a code editor
-6. Learn Github so you can save different versions of the same project easily, and so you can collaborate on code with other people. 
-7. Learn vim motions to program faster and easier. Vim lets you program and move around without needing to touch your mouse. (type in `nvim +Tutor` in terminal to open tutorial) and install vim vscode extension. NOTE! Dont install the vim extension until you do the tutorial and know the basics of how to use vim. 
-8. Get a raspberry pi module, attatch it to the pin outs on the raspi, and make a project with it! One cool one to look into is the camera module. Just google "raspberry pi camera module"
+6. Learn the command line (aka bash, aka terminal) so you can install programs, navigate files, and execute powerful commands to control your computer. Google: "how to navigate in bash", "how to install programs in bash". I included a pdf on the usb-stick for some of the basics. Definitly learn ls and cd and apt-get. 
+7. Learn Github so you can save different versions of the same project easily, and so you can collaborate on code with other people. 
+8. Learn vim motions to program faster and easier. Vim lets you program and move around without needing to touch your mouse. (type in `nvim +Tutor` in terminal to open tutorial) and install vim vscode extension. NOTE! Dont install the vim extension until you do the tutorial and know the basics of how to use vim. 
+9. Get a raspberry pi module, attatch it to the pin outs on the raspi, and make a project with it! One cool one to look into is the camera module. Just google "raspberry pi camera module"
 ---
 ## The best way to learn how to talk to a computer
 The answer is fun projects! Learn something cool, like how to make a custom minecraft server, or how to make a roblox game, or how to play a prank on a friend using code. Maybe we could build more robots! 

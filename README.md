@@ -1,7 +1,7 @@
 
 # Hello Landon, Welcome to your new computer!
 
-This computer is a **raspberry pi 4** and it is a computer for hackers!
+This computer is a **raspberry pi 4** and it is a computer for hackers! The operating system is not Apple or windows, but Linux! Its a higly customizable open source operating system thats preferred by true hackers. 
 
 Part of the excitement of having this computer is it is the best place to learn about computers and how to talk to them!
 When you learn how to properly talk to computers, I think it goes without saying that you can achieve some really powerful things!
@@ -23,7 +23,7 @@ You can learn any of this in any order you want, preferably in the order that is
 4. Learn python to learn how to work with data. Learn on codecademy, resource is also on usb-stick
 5. Learn how VScode aka Visual studio code, works as a code editor
 6. Learn the command line (aka bash, aka terminal) so you can install programs, navigate files, and execute powerful commands to control your computer. Google: "how to navigate in bash", "how to install programs in bash". I included a pdf on the usb-stick for some of the basics. Definitly learn ls and cd and apt-get. 
-7. Learn Github so you can save different versions of the same project easily, and so you can collaborate on code with other people. 
+7. Learn Github so you can save different versions of the same project easily, and so you can collaborate on code with other people. You are currently reading this document on github under your own profile, in your own repo called welcome, and this is the README.md file. The file type is .md which is markdown, which lets me format this document nicely. You can press the edit button to see how the markdown foratting code works. 
 8. Learn vim motions to program faster and easier. Vim lets you program and move around without needing to touch your mouse. (type in `nvim +Tutor` in terminal to open tutorial) and install vim vscode extension. NOTE! Dont install the vim extension until you do the tutorial and know the basics of how to use vim. 
 9. Get a raspberry pi module, attatch it to the pin outs on the raspi, and make a project with it! One cool one to look into is the camera module. Just google "raspberry pi camera module"
 ---

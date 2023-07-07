@@ -51,3 +51,8 @@ But more than anything, I hope we can become coding buddies and work on more fun
 Love,
 
 *Uncle Donji*
+</br>
+</br>
+</br>
+P.S. if you need any help, my email is theodoreyd@gmail.com
+My github username is donjikong, i think my discord is also donjikong
